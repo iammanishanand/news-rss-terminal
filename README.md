@@ -40,10 +40,15 @@ This project is an open-source tool that fetches news headlines from publicly av
 ### Responsible Usage Guidelines:
 
 ✅ **No Full Article Republishing:** This tool does not store or display full news articles. Users must visit the original source for full content.
+
 ✅ **Respect Copyright & Fair Use:** The fetched content belongs to the respective publishers. Users must comply with their terms of use.
+
 ✅ **No Commercial Use Without Permission:** This project does not grant rights to monetize or redistribute the fetched content.
+
 ✅ **API Rate Limits & Terms of Service:** Google may update or restrict RSS feeds. Users are responsible for ensuring compliance with Google’s Terms of Service.
+
 ✅ **Ethical Data Use:** This tool should not be used for misinformation, mass content scraping, or violating any laws.
+
 
 By using this project, you agree to follow these guidelines. The project creator is not responsible for any misuse. The copyright notice in Google's RSS feed explicitly states:
 
